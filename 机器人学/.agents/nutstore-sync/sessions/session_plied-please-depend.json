@@ -1,0 +1,21 @@
+{
+  "session": {
+    "schemaVersion": 2,
+    "id": "session_plied-please-depend",
+    "createdAt": 1793425590453,
+    "updatedAt": 1793425590453,
+    "subagents": {
+      "master": {
+        "id": "master",
+        "type": "master",
+        "status": "idle",
+        "createdAt": 1793425590453,
+        "timeline": [],
+        "pendingInputs": [],
+        "operations": {},
+        "toolTimings": {},
+        "subagents": {}
+      }
+    }
+  }
+}

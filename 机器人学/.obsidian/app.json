@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "./Attachments",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": false,
+  "strictLineBreaks": false
+}

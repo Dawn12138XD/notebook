@@ -1,0 +1,1277 @@
+https://www.vatican.va/content/paul-vi/en/messages/pont-messages/documents/hf_p-vi_mess_19740404_paesi-poveri.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+https://www.vatican.va/content/paul-vi/en/messages/pont-messages/documents/hf_p-vi_mess_19750829_direttore-unesco.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+https://www.vatican.va/content/paul-vi/en/messages/pont-messages/documents/hf_p-vi_mess_19731210_diritti-uomo.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+http://www.vatican.va/content/dam/paul-vi/pdf/encyclicals/hf_p-vi_enc_25071968_humanae-vitae_zh_cn.pdf: curl exited 6: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (6) Could not resolve host: www.vatican.va
+https://www.vatican.va/content/paul-vi/en/speeches/1965/documents/hf_p-vi_spe_19650316_air-india.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+https://www.vatican.va/content/paul-vi/en/speeches/1965/documents/hf_p-vi_spe_19650424_anglicani.html: curl exited 55: curl: (55) Send failure: Broken pipe
+https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20071121.html: curl exited 52: curl: (52) Empty reply from server
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100110.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+https://www.vatican.va/content/benedict-xvi/en/audiences/2012/documents/hf_ben-xvi_aud_20120215.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+https://www.vatican.va/content/benedict-xvi/en/homilies/2006/documents/hf_ben-xvi_hom_20060205_sant-anna.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+https://www.vatican.va/content/benedict-xvi/en/homilies/2006/documents/hf_ben-xvi_hom_20060202_presentation-lord.html: curl exited 55: curl: (55) Send failure: Broken pipe
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111026_preghiera_assisi.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (6) Could not resolve host: www.vatican.va
+curl: (28) Connection timed out after 60011 milliseconds
+https://www.vatican.va/content/benedict-xvi/en/homilies/2009/documents/hf_ben-xvi_hom_20090524_vespri-montecassino.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+https://www.vatican.va/content/benedict-xvi/en/homilies/2009/documents/hf_ben-xvi_hom_20090531_pentecoste.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+http://www.vatican.va/news_services/liturgy/libretti/2009/20091025.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (6) Could not resolve host: www.vatican.va
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/20091004.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (6) Could not resolve host: www.vatican.va
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/20091217.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/20091224.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100106.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100101.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100110.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/20091011-2.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (6) Could not resolve host: www.vatican.va
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/20091011.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100202.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100125.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100217.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100211.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100328palme.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100401cena-domini.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100401crisma.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100403veglia-pasquale.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100523.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100611.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100620.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/holy_father/benedict_xvi/news_services/liturgy/libretti/2010/20100628.pdf: curl exited 28: curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_en.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20101017.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20101127.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20101224.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20101231_tedeum.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110101.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110106.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110109.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110125.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110202.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110205.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110309.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100629_pp1-20.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100629_pp21-40.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100629_pp41-80.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110417.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110421_cena_domini.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110423_veglia.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110501.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110612.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110623.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110629.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110421_crisma.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100401crisma.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111016.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111023.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111104.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111212.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111215.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111224.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111231.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120101.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120106.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120108.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120125.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120202.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120429.pdf: curl exited 6: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60685 milliseconds
+curl: (6) Could not resolve host: www.vatican.va
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120222.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120310.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120401.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120405_cena_domini.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/news_services/liturgy/libretti/2010/20100401crisma.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120407_veglia.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120629.pdf: curl exited 6: curl: (28) Connection timed out after 61896 milliseconds
+curl: (6) Could not resolve host: www.vatican.va
+curl: (6) Could not resolve host: www.vatican.va
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120527.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120607.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121007.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121021.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121011.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121228.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121103.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121125.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121201.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121224.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121231.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121124.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130101.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130106.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130113.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130125.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130202.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130213.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100328palme.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/chinese/pdf/1Compendium_zh-s_en.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/chinese/pdf/2Compendium_zh-t_en.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/chinese/pdf/7Compendium_en.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100402via-crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/8_dicembre_2010.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_en.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_en.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/20100610veglia.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_en.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_en.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/roman_curia/congregations/orientchurch/Istruzione/pdf/istruzione_inglese.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20110422_via_crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111208.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20120406_via_crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121208.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121229.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121124.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/20121031.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2008/messale_Australia.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/Messale%20viaggio%20Africa.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/20090926_repubblica-ceca.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_en.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/messale-malta2010.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/messale-portogallo2010.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/20090621_celebrazione.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/20090621_incontro.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/messale_regnounito2010.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/20111026_preghiera_assisi.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/messale_benin2011.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/messale_croazia2011.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/messale_germania2011.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/messale-santiago2010.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/messale-barcelona2010.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2011/messale_madrid2011.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/messale_libano2012.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/messale_mexico2012.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2012/messale_cuba2012.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2010/messale-cipro2010.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_en.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_ar.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_fr.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20100606_instrumentum-mo_it.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2009/MessaleTerraSanta.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/holy_father/benedict-xvi/speeches/2009/may/documents/hf_ben-xvi_spe_20090513_aida-refugee-camp_ar.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/holy_father/benedict-xvi/speeches/2009/may/documents/hf_ben-xvi_spe_20090513_farewell-betlemme_ar.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/holy_father/benedict-xvi/speeches/2009/may/documents/hf_ben-xvi_spe_20090515_incontro-ecumenico_ar.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/holy_father/benedict-xvi/speeches/2009/may/documents/hf_ben-xvi_spe_20090515_santo-sepolcro_ar.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/holy_father/benedict-xvi/speeches/2009/may/documents/hf_ben-xvi_spe_20090515_san-giacomo_ar.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/content/dam/francesco/pdf/apost_letters/documents/papa-francesco-lettera-ap_20201208_patris-corde_zh_cn.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/resources/resources_rapporto-card-mccarrick_20201110_en.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130319_inizio-ministero-petrino.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130324-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130328-messa-crismale-libretto.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130414-libretto-basilica-san-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130421-libretto-ordinazione-presbiterale.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130330-veglia-pasquale-libretto.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130407-libretto-cathedra-romana.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130428-libretto-cresime.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130505-libretto-giornata-confraternite.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130512-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130519-libretto-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130523-libretto-professio-fidei-cei.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130530-libretto-corpus-domini.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130616-libretto-giornata-evangelium-vitae.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130629-libretto-santi-pietro-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130707-libretto-giornata-seminaristi.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130907-libretto-veglia-pace.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130929-libretto-giornata-catechisti-anno-fede.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131013-libretto-giornata-mariana-anno-fede.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131027-libretto-giornata-famiglie-anno-fede.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131024-libretto-ordinazione-episcopale.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131104-libretto-suffragio-card-vesc-defunti.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131115-libretto-ordinazione-episcopale-vergez.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131123-libretto-ammissione-catecumenato.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131124-libretto-chiusura-anno-fede.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131130-libretto-vespri-universitari-inizio-avvento.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131224-libretto-natale-notte.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131231-libretto-maria-madre-di-dio-vespri.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140101-libretto-maria-madre-di-dio.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/news_services/liturgy/libretti/2014/20140112-libretto-battesimo-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140106-libretto-epifania.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140125-libretto-conversione-san-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140223-libretto-concisttoro-messa-cardinali.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140222-libretto-concistoro-creazione-cardinali.pdf: curl exited 28: curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140305-libretto-mercoledi-ceneri.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140328-libretto-liturgia-penitenziale.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140413-libretto-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140419-libretto-veglia-pasquale.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140427-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140511-libretto-ordinazione-presbiterale.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140608-libretto-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140619-libretto-corpus-domini.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140629-libretto-santi-pietro-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140914-libretto-esaltazione-cr_matrimoni.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141005-libretto-apertura-sinodo.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141012-libretto-messa-canonizz-equipollente.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141019-libretto-beatificazione-paolo-vi.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141103-libretto-suffragio-card-vesc-defunti.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141123-libretto-cristo-re_canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141212-libretto-madonna-guadalupe.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141224-libretto-natale-notte.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141231-libretto-maria-madre-di-dio_pvespri.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150101-libretto-maria-madre-di-dio.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150106-libretto-epifania.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60012 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150111-libretto-battesimo-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150125-libretto-conversione-sanpaolo.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150214-libretto-concistoro-creazione.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150215-libretto-concistoro-messa.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150218-libretto-mercoledi-ceneri.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150313-libretto-liturgia-penitenziale.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150329-libretto-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150402-libretto-crisma.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150405-libretto-pasqua.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150411-libretto-consegna-bolla-anno-santo.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150426-libretto-ordinazione-presbiterale.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150412-libretto-messa-armeni.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150512-libretto-caritas-internationalis.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150517-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150524-libretto-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150604-libretto-corpusdomini.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150629-libretto-sant-petro-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151004-libretto-apertura-sinodo.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151018-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151025-libretto-chiusura-sinodo.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151103-libretto-suffragio-card-vesc-defunti.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151109-libretto-ordinaz-episc-dedonatis.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151208-libretto-apertura-giubileo-straordinario.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151212-libretto-madonna-guadalupe.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151213-libretto-apertura-porta-santa_laterano.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151224-libretto-natale-notte.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151227-libretto-santa-famiglia.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151231-libretto-maria-madre-di-dio_pvespri.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160101-libretto-apertura-porta_santa-maria-magg.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160101-libretto-maria-madre-di-dio.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160106-libretto-epifania.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160110-libretto-battesimo-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160125-libretto-conversione-sanpaolo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160210-libretto-mercoledi-ceneri.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160222-libretto-giubileo-curia-romana.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160304-libretto-liturgia-penitenziale.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160319-libretto-sangiuseppe-ordinaz-episc.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160320-libretto-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160324-libretto-messa-crisma.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160326-libretto-veglia-pasquale.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160403-libretto-domenica-divina-misericordia.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160417-libretto-ordinazione-presbiterale.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160424-libretto-giubileo-ragazzi-ragazze.pdf: curl exited 28: curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160515-libretto-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160526-libretto-corpusdomini.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160529-libretto-giubileo-diaconi.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160603-libretto-giubileo-sacerdoti.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160605-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160612-libretto-giubileo-ammalati.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160629-libretto-santi-pietro-e-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160904-libretto-canonizzazione-teresa-calcutta.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160925-libretto-giubileo-catechisti.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161016-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161009-libretto-giubileo-mariano.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161106-libretto-giubileo-carcerati.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161113-libretto-giubileo-persone-soc-escluse.pdf: curl exited 28: curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161119-libretto-concistoro-cardinali.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161120-libretto-chiusura-giubileo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161224-libretto-natale-notte.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161231-libretto-maria-madredidio-vespri.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170101-libretto-maria-madredidio.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170106-libretto-epifania.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170108-libretto-battesimo-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170125-libretto-conversione-san-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170301-libretto-mercoledi-ceneri.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170409-libretto-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170415-libretto-veglia-pasquale.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170413-libretto-messa-crismale.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170416-libretto-domenica-di-pasqua.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170507-libretto-ordinazione-presbiterale.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170604-libretto-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170618-libretto-corpus-domini.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170628-libretto-concistoro.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170629-libretto-ss-pietro-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20171015-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20171103-libretto-suffragio-card-vesc-defunti.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20171119-libretto-giornata-dei-poveri.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20171212-libretto-madonna-guadalupe.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60000 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20171224-libretto-natale_notte.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20171231-libretto-maria-madre-di-dio_pvespri.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180101-libretto-maria-madre-di-dio.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180106-libretto-epifania.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180107-libretto-battesimo-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180125-libretto-conversione-san-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180128-libretto-traslazione-salus-populi-romani.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180214-libretto-mercoledi-ceneri.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180309-libretto-liturgia-penitenziale.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180319-libretto-san-giuseppe-ordinaz-episc.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180325-libretto-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180329-libretto-messa-crismale.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180331-libretto-veglia-pasquale.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180401-libretto-domenica-di-pasqua.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180408-libretto-domenica-divina-misericordia.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180422-libretto-ordinazione-presbiterale.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180520-libretto-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180628-libretto-concistoro-creazione-cardinali.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180629-libretto-santi-pietro-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181003_libretto-apertura-sinodo.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181014-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181028-libretto-chiusura-sinodo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181103-libretto-suffragio-card-vesc-defunti.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181118-libretto-giornata-dei-poveri.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181212-libretto-madonna-guadalupe.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181224-libretto-natale_notte.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181231-libretto-maria-madre-di-dio_pvespri.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190101-libretto-maria-madre-di-dio.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190113-libretto-battesimo-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190106-libretto-epifania.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190118-libretto-vespri-settimana-unita-cristiani.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190202-libretto-presentazione-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190306-libretto-mercoledi-ceneri.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190329-libretto-liturgia-penitenziale.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190414-libretto-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190418-libretto-messa-crismale.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190420-libretto-veglia-pasquale.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190512-libretto-ordinazione-presbiterale.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190608-libretto-veglia-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190629-libretto-santi-pietro-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190929-libretto-giornata-migrante-e-rifugiato.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191001-libretto-vespri-inizio-mesemissionario.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191004-libretto-ordinazione-episcopale.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191005-libretto-concistoro-creazione.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191006-libretto-apertura-sinodo.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191013-libretto-canonizzazione.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191020-libretto-giornata-mondiale-missionaria.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191027-libretto-chiusura-sinodo.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191104-libretto-suffragio-card-vesc-defunti.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191117-libretto-giornata-dei-poveri.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191212-libretto-madonna-guadalupe.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191224-libretto-natale-notte.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191231-libretto-maria-madredidio-pvespri.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200101-libretto-maria-madredidio.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200106-libretto-epifania.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200112-libretto-battesimo-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200125-libretto-conversione-san-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200126-libretto-domenica-parola-di-dio.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60012 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200201-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200226-libretto-mercoledi-ceneri.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200405-libretto-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200409-libretto-messa-in-cena-domini.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200411-libretto-veglia-pasquale.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200531-libretto-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200629-libretto-santi-pietro-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200614-libretto-corpusdomini.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20201105-libretto-suffragio-card-vesc-defunti.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20201122-libretto-cristo-re.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20201115-libretto-giornata-dei-poveri.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20201128-libretto-concistoro-creazione-cardinali.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20201129-libretto-messa-nuovi-cardinali.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60000 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20201224-libretto-natale-notte.pdf: curl exited 28: curl: (28) Connection timed out after 60001 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20201231-libretto-maria-madredidio-pvespri.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210725-libretto-giornata-nonni-anziani.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20211114-libretto-giornata-dei-poveri.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60001 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210124-libretto-domenica-parola-di-dio.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210101-libretto-maria-madredidio.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210106-libretto-epifania.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210125-libretto-conversione-san-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210217-libretto-mercoledi-ceneri.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210306-indicazioni_messa-caldea_bagdad.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210328-libretto-domenica-palme.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210404-libretto-domenica-di-pasqua.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210403-libretto-veglia-pasquale.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210401-libretto-messa-crismale.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210523-libretto-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+https://www.vatican.va/news_services/liturgy/libretti/2023/20230131-messale-congo-sud-sudan.pdf: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210606-libretto-corpusdomini.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210629-libretto-santi-pietro-paolo.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2022/20220109-libretto-battesimo-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2020/20200201-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210202-libretto-presentazione-del-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190202-libretto-presentazione-signore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+https://www.vatican.va/content/francesco/en/messages/pont-messages/2020/documents/papa-francesco_20201130_messaggio-bartolomeo-i.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141208-libretto-immacolata-concezione.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161208-libretto-veneraz_immacolata-concezione.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20171208-libretto-veneraz_immacolata-concezione.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180330-libretto-venerdi-via-crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20181208-libretto-veneraz_immacolata-concezione.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190419-libretto-venerdi-via-crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131308libretto-immacolata-concezione.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130329-via-crucis-libretto.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130504-libretto-rosario-smaria-maggiore.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20130518-libretto-veglia-pentecoste.pdf: curl exited 28: curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/20131012-libretto-preghiera-mariana-anno-fede.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140418-libretto-via-crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141208-libretto-immacolata-concezione.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150403-libretto-viacrucis.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+https://www.vatican.va/content/francesco/en/speeches/2016/november/documents/papa-francesco_20161105_movimenti-popolari.html: curl exited 35: curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.vatican.va:443
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160402-libretto-veglia-divina-misercordia.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160325-libretto-venerdisanto-viacrucis.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160505-libretto-veglia-asciugare-lacrime.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20161008-libretto-veglia_giubileo-mariano.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170414-libretto-venerdi-via-crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180330-libretto-venerdi-via-crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190419-libretto-venerdi-via-crucis.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20140921-libretto-messa-albania.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+http://www.vatican.va/news_services/liturgy/2014/documents/messale20140813-18_corea.pdf: curl exited 28: curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/2014/documents/messale20140524-26_terra-santa.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2014/20141128-30-libretto-messale-turchia.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60000 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20151125-30-messale_kenya-uganda-rca.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/libretto20150919-28-messale_cuba-usa.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/2015/documents/messale_america-latina20150705-13.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2013/messale-rio-de-janeiro2013.pdf: curl exited 28: curl: (28) Connection timed out after 60000 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/holy_father/benedict_xvi/messages/youth/documents/hf_ben-xvi_mes_20121018_youth_ko.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2015/20150112-19-messale_srilanka-filippine.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160624-26-messale-armenia.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160212-18-messale-messico.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60000 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160930-messale-georgia-azerbaigian.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2016/20160727-31-messale-polonia.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170906-11_messale-colombia.pdf: curl exited 28: curl: (28) Connection timed out after 60009 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20170512-13_messale-fatima.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2017/20171126-messale-myanmar-bangladesh.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180115-22-messale_cile-peru.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2018/20180922-25_messale-paesi-baltici.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190505-07_messale_bulgaria_macedonia.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190123-28_messale_panama.pdf: curl exited 28: curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60004 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190203-05-indicazioni-emirati-arabi.pdf: curl exited 28: curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60003 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190904-10_messale_africa.pdf: curl exited 28: curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20190531-0602_messale_romania.pdf: curl exited 28: curl: (28) Connection timed out after 60005 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2019/20191119-26-messale-thailandia-giappone.pdf: curl exited 28: curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+http://www.vatican.va/news_services/liturgy/libretti/2021/20210306-indicazioni_messa-caldea_bagdad.pdf: curl exited 28: curl: (28) Connection timed out after 60007 milliseconds
+curl: (28) Connection timed out after 60008 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
+http://www.vatican.va/content/dam/john-paul-ii/pdf/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio_zh_cn.pdf: curl exited 28: curl: (28) Connection timed out after 60004 milliseconds
+curl: (28) Connection timed out after 60006 milliseconds
+curl: (28) Connection timed out after 60002 milliseconds
+http://www.vatican.va/content/dam/john-paul-ii/pdf/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae_zh_cn.pdf: curl exited 28: curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60011 milliseconds
+curl: (28) Connection timed out after 60010 milliseconds
